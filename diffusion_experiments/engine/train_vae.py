@@ -1,4 +1,4 @@
-from experiments import elbo_loss, vanillavae as vae
+from models import elbo_loss, vanillavae as vae
 
 import torch
 from torch.utils.data import DataLoader
